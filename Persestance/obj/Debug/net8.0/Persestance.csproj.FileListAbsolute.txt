@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Persestance.deps.json
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Persestance.dll
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Persestance.pdb
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Employee.Application.dll
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Employee.Domain.dll
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Employee.Application.pdb
+C:\Users\pc\Desktop\task Employee\Persestance\bin\Debug\net8.0\Employee.Domain.pdb
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.AssemblyInfo.cs
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persesta.3F6C92B6.Up2Date
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.dll
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\refint\Persestance.dll
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\Persestance.pdb
+C:\Users\pc\Desktop\task Employee\Persestance\obj\Debug\net8.0\ref\Persestance.dll
